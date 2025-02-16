@@ -44,7 +44,7 @@ MAX_MESSAGES_PER_DAY = 100
 mm="︎مرحبا بكم في اقوي بوت رشق علي الساحه"
 link_price=1
 bk = mk(row_width=1).add(btn('رجوع', callback_data='back'))
-bot = TeleBot(token="7326958688:AAG__Ylc-gihaeM7UX4o1gVkXXbRGe4F9Ho")
+bot = TeleBot(token="7536129194:AAH7xiyzsadwEKvNXskin3Oo1Yjycq4JNNA")
 stypes = ['member', 'administrator', 'creator']
 if not db.get('accounts'):
     db.set('accounts', [])
